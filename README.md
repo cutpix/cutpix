@@ -1,7 +1,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cutpix)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/hothead)
 
-# Hustlin Since '86
+# HOTHEADS💀™ — Hustlin Since '86
 
 It can get lonely when you're a big immortal black guy from the bowels of Hell and you get the blame for all of humanity's ills.
 
@@ -15,5 +15,3 @@ It can get lonely when you're a big immortal black guy from the bowels of Hell a
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
- — HOTHEADS💀™
