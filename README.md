@@ -1,6 +1,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cutpix)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/cutpix)
 
+# Build better — every time. 💯
+
 ![Andrii Pavliuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutpix&show_icons=true&theme=radical)
 
 ### Development Stack
