@@ -1,3 +1,3 @@
 ![Andrii Pavliuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutpix&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutpix)](https://github.com/cutpix)
+![](https://img.shields.io/badge/HOTHEADS💀™-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
