@@ -5,5 +5,3 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-
-[![Stargazers over time](https://starchart.cc/dotnet-architecture/eShopOnContainers.svg)](https://starchart.cc/dotnet-architecture/eShopOnContainers)
