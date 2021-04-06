@@ -1,4 +1,4 @@
-I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️💋
+I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️👾
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cutpix)
 
