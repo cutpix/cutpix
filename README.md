@@ -1,6 +1,6 @@
-I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cutpix)
+
+I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️
 
 ![Hothead's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutpix&show_icons=true&theme=nightowl)
 
