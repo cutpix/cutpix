@@ -2,6 +2,8 @@
 
 I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️
 
+[![wakatime](https://wakatime.com/badge/github/cutpix/bubble-gun.svg)](https://wakatime.com/badge/github/cutpix/bubble-gun)
+
 ![Hothead's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutpix&show_icons=true)
 
 ### Tech Stack
