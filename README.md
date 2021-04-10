@@ -14,4 +14,5 @@ I make the web a more interactive and exciting place by creating applications fo
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Tools
-[n:point](https://www.npoint.io/) 👾 [Hackolade'Polyglot Data Modeling](https://hackolade.com/)
+[n:point](https://www.npoint.io/) 👾
+[hackolade](https://hackolade.com/) 💾
