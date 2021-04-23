@@ -17,5 +17,5 @@ I make the web a more interactive and exciting place by creating applications fo
 
 ### Tools
 [n:point](https://www.npoint.io/) 👾
-[hackolade](https://hackolade.com/) 💾
-[vercel](https://vercel.com/) 🔺
+[vercel](https://vercel.com/) 🔺💾
+ 
