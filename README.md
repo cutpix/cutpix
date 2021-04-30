@@ -1,6 +1,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cutpix)
 
-I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to create modular, testable projects. Cheers and keep on coding folks! ✌️
+I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to build modular, testable projects. Cheers and keep on coding folks! ✌️
 
 [![wakatime](https://wakatime.com/badge/github/cutpix/bubble-gun.svg)](https://wakatime.com/badge/github/cutpix/bubble-gun)
 
