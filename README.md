@@ -19,3 +19,4 @@ I make the web a more interactive and exciting place by creating applications fo
 [n:point](https://www.npoint.io/) 👾
 [vercel](https://vercel.com/) 💾
  
+[changelog](https://headwayapp.co/the-dirty-code-club-changelog) 📝⏱
