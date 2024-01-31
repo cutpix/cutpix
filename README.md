@@ -2,8 +2,6 @@ I make the web a more interactive and exciting place by creating applications fo
 
 [![wakatime](https://wakatime.com/badge/github/cutpix/bubble-gun.svg)](https://wakatime.com/badge/github/cutpix/bubble-gun)
 
-![Hothead's GitHub stats](https://github-readme-stats.vercel.app/api?username=cutpix&show_icons=true)
-
 ### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
