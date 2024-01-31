@@ -1,5 +1,4 @@
-I make the web a more interactive and exciting place by creating applications for the modern world. I love working with the latest technologies to build modular, testable projects.
-Cheers and keep on coding folks! ✌️
+Passionate about coding and curious to learn new technologies. 🔥 Cheers and keep on coding folks! ✌️
 
 ### Tech Stack
 
