@@ -8,11 +8,10 @@ I make the web a more interactive and exciting place by creating applications fo
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Tools
 [n:point](https://www.npoint.io/) 👾
 [vercel](https://vercel.com/) 💾
- 
-[changelog](https://headwayapp.co/the-dirty-code-club-changelog) 📝⏱
